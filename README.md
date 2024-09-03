@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karthik12503
-- 👀 I’m interested in making machine learning projects
-- 🌱 I’m currently learning artificial intelligence and machine learning
-- 💞️ I’m looking to collaborate on machine learning projects
+- 👀 I’m interested in making machine learning projects.
+- 🌱 I’m currently learning artificial intelligence and machine learning.
+- 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me...you can mail me at jkarthik626@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
